@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataType",
+            "request": "launch",
+            "mainClass": "DataType",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch EndOfFileChallenge",
+            "request": "launch",
+            "mainClass": "EndOfFileChallenge",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch IF_ELSE",
+            "request": "launch",
+            "mainClass": "IF_ELSE",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Looping",
+            "request": "launch",
+            "mainClass": "Looping",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Looping_II",
+            "request": "launch",
+            "mainClass": "Looping_II",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch OutputFormatting",
+            "request": "launch",
+            "mainClass": "OutputFormatting",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticInitialization",
+            "request": "launch",
+            "mainClass": "StaticInitialization",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdinOutChallenge",
+            "request": "launch",
+            "mainClass": "StdinOutChallenge",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tetst",
+            "request": "launch",
+            "mainClass": "Tetst",
+            "projectName": "hackerrank_4fbb8ec2"
+        }
+    ]
+}
