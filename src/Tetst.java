@@ -1,5 +1,7 @@
 public class Tetst {
     public static void main(String[] args) {
-        System.out.println(-Math.pow(2,31));
+        MyCalculator mc = new MyCalculator();
+        int number = mc.divisor_sum(6);
+        System.out.println(number);
     }
 }

@@ -8,6 +8,7 @@
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
+            "console": "integratedTerminal",
             "mainClass": "${file}"
         },
         {
@@ -54,6 +55,13 @@
         },
         {
             "type": "java",
+            "name": "Launch PaymentChallenge",
+            "request": "launch",
+            "mainClass": "PaymentChallenge",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
             "name": "Launch StaticInitialization",
             "request": "launch",
             "mainClass": "StaticInitialization",
@@ -64,6 +72,14 @@
             "name": "Launch StdinOutChallenge",
             "request": "launch",
             "mainClass": "StdinOutChallenge",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringChallenge",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "StringChallenge",
             "projectName": "hackerrank_4fbb8ec2"
         },
         {
