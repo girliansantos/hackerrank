@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringAnagram",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "StringAnagram",
+            "projectName": "hackerrank_4fbb8ec2"
+        },
+        {
+            "type": "java",
             "name": "Launch StringPalindromo",
             "request": "launch",
             "console": "integratedTerminal",
